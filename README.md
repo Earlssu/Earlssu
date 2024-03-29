@@ -1,6 +1,11 @@
 ### Earlssu: Front-end Developer
 
+<div align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Earlssu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Earlssu)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ### 🔭 I’m currently working on ...
 Team BLAST
