@@ -7,7 +7,7 @@
 </div>
 
 ### 🔭 I’m currently working on ...
-Team BLAST
+Team BLAST company
 
 ### 🌱 I’m currently learning ...
 PYTHON
