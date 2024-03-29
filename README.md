@@ -1,4 +1,20 @@
-### Hi there 👋
+### Earlssu: Front-end Developer
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Earlssu)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🔭 I’m currently working on ...
+Team BLAST
+
+### 🌱 I’m currently learning ...
+PYTHON
+
+### 📫 How to reach me: ...
+📧 mshimdev@gmail.com
+📱 (82)010-5063-5505
+
+### ⚡ Fun fact: ...
+I like to climb and room escape
+저는 클라이밍과 방탈출을 좋아합니다
 
 <!--
 **Earlssu/Earlssu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
