@@ -9,11 +9,11 @@ Team BLAST
 PYTHON
 
 ### 📫 How to reach me: ...
-📧 mshimdev@gmail.com
+📧 mshimdev@gmail.com <br/>
 📱 (82)010-5063-5505
 
 ### ⚡ Fun fact: ...
-I like to climb and room escape
+I like to do bouldering and play room escapes. <br/>
 저는 클라이밍과 방탈출을 좋아합니다
 
 <!--
