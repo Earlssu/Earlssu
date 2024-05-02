@@ -121,8 +121,6 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
     <img align="top" src="https://github-readme-stats-shim5505s-projects.vercel.app/api/top-langs/?username=Earlssu"/>
 <div>
 
-<div>
 
-![Snake animation](https://github.com/Earlssu/Earlssu/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+<!--START_SECTION:activity-->
+
