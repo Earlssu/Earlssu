@@ -41,8 +41,8 @@ education:
   ]
 career:
   [
-    "Blast - Frontend Developer",
-    "Digital Daily - Digital Life team",
+    "Frontend Developer - Blast Corp",
+    "Journalist - Digital Daily Corp",
     "Intern - Austin College IT Department"
   ]
 fields_of_interests:
