@@ -123,6 +123,6 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 
 <div>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Earlssu/Earlssu/blob/output/github-contribution-grid-snake.svg)
   
 </div>
