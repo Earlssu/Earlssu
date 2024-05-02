@@ -64,17 +64,38 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
   Skills I Have Used and Learned
 </h3>
 
-
 <p align="left">
+  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" />
   <img width="45" height="45" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="html5" />
   <img width="45" height="45" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="css3" />
   <img width="45" height="45" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" alt="javascript" />
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" />
   <img width="45" height="45" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" />
-  <img width="45" height="45" src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-2/15/nextjs-512.png" alt="nextjs" />
+  <img width="45" height="45" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs" />
+  <img width="45" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxjWNXf9mY-sHxQATgBDdlbHjQg8keLS8ziDh3ZEFmg&s" alt="threejs" />
   <img width="45" height="45" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Android-512.png" alt="android" />
   <img width="45" height="45" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_app_store-512.png" alt="apple" />
+  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" />
+  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" />
+  <img width="45" height="45" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" alt="sass" />
+  <img width="45" height="45" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" alt="bootstrap" />
+  <img width="45" height="45" src="https://gercocca.vercel.app/static/media/styledComponents-logo.3ccd25bd32274429992c.png" alt="styled-component" />
+  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux" />
+  <img width="45" height="45" src="https://mobx.js.org/assets/mobx.png" alt="mobx" />
+  <img width="45" height="45" src="https://seeklogo.com/images/R/recoil-js-logo-0FA612F129-seeklogo.com.png" alt="mobx" />
+  <img width="45" height="45" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" />
+  <img width="45" height="45" src="https://camo.githubusercontent.com/9e876f0b8e5ba00559326b3a2b9e7f043aa373aa8e89e6433e5730f1b09caf40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d706c61696e2d776f72646d61726b2e737667" alt="aws" />
+  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
+  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" />
+  <img width="45" height="45" src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" alt="npm" />
+  <img width="45" height="45" src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" alt="yarn" />
+  <img width="45" height="45" src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" alt="bun" />
+  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" />
+  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" />
+  <img width="45" height="45" src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/notion-icon.svg" alt="notion" />
+  <img width="45" height="45" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="figma" />
 </p>
+
 
 <div align="center">
   
