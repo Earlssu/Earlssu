@@ -118,7 +118,7 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 
 <div>
     <img align="top" src="https://github-readme-stats-shim5505s-projects.vercel.app/api?username=Earlssu&show_icons=true&theme=tokyonight"/>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earlssu"/>
+    <img align="top" src="https://github-readme-stats-shim5505s-projects.vercel.app/api/top-langs/?username=Earlssu"/>
 <div>
 
 <div>
