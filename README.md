@@ -121,6 +121,7 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
     <img align="top" src="https://github-readme-stats-shim5505s-projects.vercel.app/api/top-langs/?username=Earlssu"/>
 <div>
 
+<h4>Recent Activity</h4>
 
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
