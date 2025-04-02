@@ -123,7 +123,7 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 <h4>Recent Activity</h4>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Team-Achivers/team-fb/pull/2#issuecomment-2544980246) in [Team-Achivers/team-fb](https://github.com/Team-Achivers/team-fb)
-2. 💪 Opened PR [#2](https://github.com/Team-Achivers/team-fb/pull/2) in [Team-Achivers/team-fb](https://github.com/Team-Achivers/team-fb)
+1. 🎉 Merged PR [#2](https://github.com/Earlssu/MERN_FS_Project/pull/2) in [Earlssu/MERN_FS_Project](https://github.com/Earlssu/MERN_FS_Project)
+2. 🎉 Merged PR [#2](https://github.com/Earlssu/MERN_FS_Project/pull/2) in [Earlssu/MERN_FS_Project](https://github.com/Earlssu/MERN_FS_Project)
 3. ❗ Opened issue [#1](https://github.com/Team-Achivers/team-fb/issues/1) in [Team-Achivers/team-fb](https://github.com/Team-Achivers/team-fb)
 <!--END_SECTION:activity-->
