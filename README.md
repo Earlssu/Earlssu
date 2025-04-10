@@ -1,8 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F9F7F7,50:DBE2EF,100:3F72AF&height=225&section=header&text=MinSeob%20Shim&fontAlign=55&fontAlignY=30&fontSize=50&animation=fadeIn&fontColor=EEEEEE&desc=Frontend%20Developer%20of%20Team%20BLAST🚀&descAlign=59&descAlignY=50&descSize=15)
 
-<h3 align="center">
-  Welcome to my GitHub Profile!
-</h3>
+## Welcome to my GitHub Profile!
+
+### 📌 Table of Contents
+- [🙋 About Me](#--about-me)
+- [🛠️ Skills](#--skills-i-have-used-and-learned)
+- [📊 GitHub Stats](#my-github-stats)
+- [⚡ Recent Activity](#recent-activity)
+
 
 <p align="center">
   <a href="https://code-in-law.tistory.com/" target="_blank">
@@ -117,12 +122,15 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 
 ---
 
-<h3>My GitHub History</h3>
+<h4>My GitHub Stats</h4>
 
-<div>
-    <img align="top" src="https://github-readme-stats-shim5505s-projects.vercel.app/api?username=Earlssu&show_icons=true&theme=tokyonight"/>
-    <img align="top" src="https://github-readme-stats-shim5505s-projects.vercel.app/api/top-langs/?username=Earlssu"/>
-<div>
+<img align="top" src="https://github-readme-stats-shim5505s-projects.vercel.app/api?username=Earlssu&show_icons=true&theme=tokyonight"/>
+
+<h4>Most Used Languages</h4>
+
+<img align="top" src="https://github-readme-stats-shim5505s-projects.vercel.app/api/top-langs/?username=Earlssu&layout=compact&theme=tokyonight"/>
+
+---
 
 <h4>Recent Activity</h4>
 
