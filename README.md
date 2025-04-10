@@ -3,10 +3,11 @@
 ## Welcome to my GitHub Profile!
 <!-- top -->
 ### 📌 Table of Contents
-- [🙋 About Me](#--about-me)
-- [🛠️ Skills](#--skills-i-have-used-and-learned)
-- [📊 GitHub Stats](#my-github-stats)
-- [⚡ Recent Activity](#recent-activity)
+
+- 🙋 **[About Me](#--about-me)**
+- 🛠️ **[Skills](#--skills-i-have-used-and-learned)**
+- 📊 **[GitHub Stats](#my-github-stats)**
+- 👀 **[Recent Activity](#recent-activity)**
 
 
 <p align="center">
@@ -63,7 +64,7 @@ currently_learning: ["MERN Full-Stack Guide"]
 hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 ```
 
-[⬆️ Back to Top](#top)
+⬆️ **[Back to Top](#top)**  
 
 ---
 
@@ -122,7 +123,7 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
 </p>
 
-[⬆️ Back to Top](#top)
+⬆️ **[Back to Top](#top)**  
 
 ---
 
@@ -134,7 +135,7 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 
 <img align="top" src="https://github-readme-stats-shim5505s-projects.vercel.app/api/top-langs/?username=Earlssu&layout=compact&theme=tokyonight"/>
 
-[⬆️ Back to Top](#top)
+⬆️ **[Back to Top](#top)**
 
 ---
 
@@ -146,4 +147,4 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 3. ❗ Opened issue [#1](https://github.com/Team-Achivers/team-fb/issues/1) in [Team-Achivers/team-fb](https://github.com/Team-Achivers/team-fb)
 <!--END_SECTION:activity-->
 
-[⬆️ Back to Top](#top)
+⬆️ **[Back to Top](#top)**
