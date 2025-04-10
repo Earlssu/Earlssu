@@ -63,6 +63,8 @@ currently_learning: ["MERN Full-Stack Guide"]
 hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 ```
 
+[⬆️ Back to Top](#top)
+
 ---
 
 <h3 align="center">
@@ -132,6 +134,8 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 
 <img align="top" src="https://github-readme-stats-shim5505s-projects.vercel.app/api/top-langs/?username=Earlssu&layout=compact&theme=tokyonight"/>
 
+[⬆️ Back to Top](#top)
+
 ---
 
 <h4>Recent Activity</h4>
@@ -141,3 +145,5 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 2. 🎉 Merged PR [#2](https://github.com/Earlssu/MERN_FS_Project/pull/2) in [Earlssu/MERN_FS_Project](https://github.com/Earlssu/MERN_FS_Project)
 3. ❗ Opened issue [#1](https://github.com/Team-Achivers/team-fb/issues/1) in [Team-Achivers/team-fb](https://github.com/Team-Achivers/team-fb)
 <!--END_SECTION:activity-->
+
+[⬆️ Back to Top](#top)
