@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F9F7F7,50:DBE2EF,100:3F72AF&height=225&section=header&text=MinSeob%20Shim&fontAlign=55&fontAlignY=30&fontSize=50&animation=fadeIn&fontColor=EEEEEE&desc=Frontend%20Developer%20of%20Team%20BLAST🚀&descAlign=59&descAlignY=50&descSize=15)
 
 ## Welcome to my GitHub Profile!
-
+<!-- top -->
 ### 📌 Table of Contents
 - [🙋 About Me](#--about-me)
 - [🛠️ Skills](#--skills-i-have-used-and-learned)
@@ -119,6 +119,8 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
   <img width="45" height="45" src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/notion-icon.svg" alt="notion" />
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
 </p>
+
+[⬆️ Back to Top](#top)
 
 ---
 
