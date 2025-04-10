@@ -9,8 +9,8 @@
 
 - 🙋 **[About Me](#--about-me)**
 - 🛠️ **[Skills](#--skills-i-have-used-and-learned)**
-- 📊 **[GitHub Stats](#my-github-stats)**
-- 👀 **[Recent Activity](#recent-activity)**
+- 📊 **[GitHub Stats](#--my-github-stats)**
+- 👀 **[Recent Activity](#--recent-activity)**
 
 
 <p align="center">
