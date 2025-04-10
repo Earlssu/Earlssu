@@ -4,25 +4,25 @@
   Welcome to my GitHub Profile!
 </h3>
 
-<div align="center">
-  <a href="https://code-in-law.tistory.com/">
-    <img height="50" src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg"/>
+<p align="center">
+  <a href="https://code-in-law.tistory.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/blogger/blogger-tile.svg" width="50" alt="Tistory"/>
   </a>
-  <a href="https://fire-warrior-ca2.notion.site/6004fbc72ef74bc994cea07bf1e11f7e?pvs=4">
-    <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Notion-512.png"/>
+  <a href="https://fire-warrior-ca2.notion.site/6004fbc72ef74bc994cea07bf1e11f7e?pvs=4" target="_blank">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Notion-512.png" width="50" alt="Notion"/>
   </a>
-  <a href="https://www.linkedin.com/in/minseob-%EC%8B%AC%EB%AF%BC%EC%84%AD-shim-b34691203/">
-    <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png"/>
+  <a href="https://www.linkedin.com/in/minseob-%EC%8B%AC%EB%AF%BC%EC%84%AD-shim-b34691203/" target="_blank">
+    <img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png" width="50" alt="LinkedIn"/>
   </a>
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://github.com/Earlssu/Earlssu/assets/61323917/7c8e473c-b1a5-4a74-bdaa-7b57936e542c" width="600" height="600"/>
   <br/>
-  <a href="http://www.freepik.com" >Designed by slidesgo / Freepik</a>
-</div>
+  <a href="http://www.freepik.com" target="_blank">Designed by slidesgo / Freepik</a>
+</p>
 
 <h3 align="center">
   About Me
@@ -49,12 +49,12 @@ fields_of_interests:
   [
     "Web Development",
     "Server Engineering",
-    "DevOps",
     "UI/UX",
+    "AI Enginering",
     "Game Development",
   ]
   
-currently_learning: ["Python and AWS"]
+currently_learning: ["MERN Full-Stack Guide"]
 hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 ```
 
@@ -69,27 +69,29 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 <img width="45" height="45" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="html5" />
   <img width="45" height="45" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="css3" />
   <img width="45" height="45" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" alt="javascript" />
-  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" />
   <img width="45" height="45" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" />
-  <img width="45" height="45" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs" />
-  <img width="45" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxjWNXf9mY-sHxQATgBDdlbHjQg8keLS8ziDh3ZEFmg&s" alt="threejs" />
-  <img width="45" height="45" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Android-512.png" alt="android" />
-  <img width="45" height="45" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_app_store-512.png" alt="apple" />
+  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" />
+  <img width="45" height="45" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextJs" />
+  <img width="45" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxjWNXf9mY-sHxQATgBDdlbHjQg8keLS8ziDh3ZEFmg&s" alt="threeJs" />
+  <img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactNative" />
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" />
+  <img width="45" height="45" src="https://gercocca.vercel.app/static/media/styledComponents-logo.3ccd25bd32274429992c.png" alt="styled-component" />
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" />
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" />
-  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" />
-  <img width="45" height="45" src="https://gercocca.vercel.app/static/media/styledComponents-logo.3ccd25bd32274429992c.png" alt="styled-component" />
-  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux" />
+  <img width="45" height="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" />
   <img width="45" height="45" src="https://mobx.js.org/assets/mobx.png" alt="mobx" />
   <img width="45" height="45" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" />
+  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux" />
 </p>
 
 <h4>Backend Development (Currently Learning)</h4>
 
 <p align="left">
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" />
-  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" />
+  <img width="110" height="45" src="https://nodejs.org/static/logos/nodejsDark.svg" alt="nodeJS" />
+  <img width="110" height="45" src="https://storage-us-gcs.bfldr.com/h5psv9c3jbk88pwc3xn79pp/v/1069931061/original/MongoDB_SpringGreen.png?Expires=1744381196&KeyName=gcs-bfldr-prod&Signature=Uofe4QXErJj37JE0gzpquz3_N1U=" alt="mongoDB" />
+  <img width="45" height="45" src="https://github.com/user-attachments/assets/73be1f9b-ebf6-498f-96c8-937f022f477b" alt="expressJS" />
+  
 </p>
 
 <h4>Version Control</h4>
@@ -97,9 +99,11 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 <p align="left">
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" />
+  <img width="45" height="45" src="https://git-fork.com/images/logo.png" alt="fork" />
+  <img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" alt="sourceTree" />
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" />
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" />
-  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg" alt="bun" />
+  <img width="45" height="45" src="https://bun.sh/logo.svg" alt="bun" />
 </p>
 
 <h4>Communication</h4>
