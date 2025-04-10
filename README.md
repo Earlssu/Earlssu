@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F9F7F7,50:DBE2EF,100:3F72AF&height=225&section=header&text=MinSeob%20Shim&fontAlign=55&fontAlignY=30&fontSize=50&animation=fadeIn&fontColor=EEEEEE&desc=Frontend%20Developer%20of%20Team%20BLAST🚀&descAlign=59&descAlignY=50&descSize=15)
 
 ## Welcome to my GitHub Profile!
+
+<br>
+
 <!-- top -->
 ### 📌 Table of Contents
 
@@ -26,7 +29,9 @@
 
 <p align="center">
   <img src="https://github.com/Earlssu/Earlssu/assets/61323917/7c8e473c-b1a5-4a74-bdaa-7b57936e542c" width="600" height="600"/>
-  <br/>
+
+  <br>
+
   <a href="http://www.freepik.com" target="_blank">Designed by slidesgo / Freepik</a>
 </p>
 
@@ -34,7 +39,7 @@
   About Me
 </h3>
 
-<br/>
+<br>
 
 ``` javascript
 name: MinSeob Shim (심민섭)
@@ -64,6 +69,8 @@ currently_learning: ["MERN Full-Stack Guide"]
 hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 ```
 
+<br>
+
 ⬆️ **[Back to Top](#top)**  
 
 ---
@@ -71,6 +78,8 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 <h3 align="center">
   Skills I Have Used and Learned
 </h3>
+
+<br>
 
 <h4>Frontend Development</h4>
 <p align="left">
@@ -123,28 +132,45 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
 </p>
 
-⬆️ **[Back to Top](#top)**  
-
----
-
-<h4>My GitHub Stats</h4>
-
-<img align="top" src="https://github-readme-stats-shim5505s-projects.vercel.app/api?username=Earlssu&show_icons=true&theme=tokyonight"/>
-
-<h4>Most Used Languages</h4>
-
-<img align="top" src="https://github-readme-stats-shim5505s-projects.vercel.app/api/top-langs/?username=Earlssu&layout=compact&theme=tokyonight"/>
+<br>
 
 ⬆️ **[Back to Top](#top)**
 
 ---
 
-<h4>Recent Activity</h4>
+<h3 align="center">
+  My GitHub Stats
+</h3>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-shim5505s-projects.vercel.app/api?username=Earlssu&show_icons=true&theme=tokyonight" />
+
+  <h4>Most Used Languages</h4>
+
+  <img src="https://github-readme-stats-shim5505s-projects.vercel.app/api/top-langs/?username=Earlssu&layout=compact&theme=tokyonight" />
+
+</div>
+
+<br>
+
+⬆️ **[Back to Top](#top)**
+
+---
+
+<h3 align="center">
+  Recent Activity
+</h3>
+
+<br>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/Earlssu/MERN_FS_Project/pull/2) in [Earlssu/MERN_FS_Project](https://github.com/Earlssu/MERN_FS_Project)
 2. 🎉 Merged PR [#2](https://github.com/Earlssu/MERN_FS_Project/pull/2) in [Earlssu/MERN_FS_Project](https://github.com/Earlssu/MERN_FS_Project)
 3. ❗ Opened issue [#1](https://github.com/Team-Achivers/team-fb/issues/1) in [Team-Achivers/team-fb](https://github.com/Team-Achivers/team-fb)
 <!--END_SECTION:activity-->
+
+<br>
 
 ⬆️ **[Back to Top](#top)**
