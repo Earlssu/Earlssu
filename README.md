@@ -32,7 +32,9 @@
 
   <br>
 
-  <a href="http://www.freepik.com" target="_blank">Designed by slidesgo / Freepik</a>
+  <p align="center">
+    <a href="http://www.freepik.com" target="_blank">Designed by slidesgo / Freepik</a>
+  </p>
 </p>
 
 <h3 align="center">
