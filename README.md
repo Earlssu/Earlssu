@@ -106,10 +106,10 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 <h4>Backend Development (Currently Learning)</h4>
 
 <p align="left">
-  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" />
-  <img width="110" height="45" src="https://nodejs.org/static/logos/nodejsDark.svg" alt="nodeJS" />
-  <img width="110" height="45" src="https://storage-us-gcs.bfldr.com/h5psv9c3jbk88pwc3xn79pp/v/1069931061/original/MongoDB_SpringGreen.png?Expires=1744381196&KeyName=gcs-bfldr-prod&Signature=Uofe4QXErJj37JE0gzpquz3_N1U=" alt="mongoDB" />
-  <img width="45" height="45" src="https://github.com/user-attachments/assets/73be1f9b-ebf6-498f-96c8-937f022f477b" alt="expressJS" />
+  <img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" />
+  <img width="110" height="45" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="nodeJS" />
+  <img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongoDB" />
+  <img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="expressJS" />
   
 </p>
 
