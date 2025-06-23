@@ -168,8 +168,8 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Earlssu/MERN_FS_Project/pull/3) in [Earlssu/MERN_FS_Project](https://github.com/Earlssu/MERN_FS_Project)
-2. 💪 Opened PR [#3](https://github.com/Earlssu/MERN_FS_Project/pull/3) in [Earlssu/MERN_FS_Project](https://github.com/Earlssu/MERN_FS_Project)
+1. 🎉 Merged PR [#1](https://github.com/MAKE-VALUE-GACHI/4_watery_front/pull/1) in [MAKE-VALUE-GACHI/4_watery_front](https://github.com/MAKE-VALUE-GACHI/4_watery_front)
+2. 💪 Opened PR [#1](https://github.com/MAKE-VALUE-GACHI/4_watery_front/pull/1) in [MAKE-VALUE-GACHI/4_watery_front](https://github.com/MAKE-VALUE-GACHI/4_watery_front)
 3. ❗ Opened issue [#1](https://github.com/Team-Achivers/team-fb/issues/1) in [Team-Achivers/team-fb](https://github.com/Team-Achivers/team-fb)
 <!--END_SECTION:activity-->
 
