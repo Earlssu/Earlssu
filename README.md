@@ -168,9 +168,9 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/MAKE-VALUE-GACHI/4_watery_front/pull/8) in [MAKE-VALUE-GACHI/4_watery_front](https://github.com/MAKE-VALUE-GACHI/4_watery_front)
-2. 💪 Opened PR [#8](https://github.com/MAKE-VALUE-GACHI/4_watery_front/pull/8) in [MAKE-VALUE-GACHI/4_watery_front](https://github.com/MAKE-VALUE-GACHI/4_watery_front)
-3. 💪 Opened PR [#6](https://github.com/MAKE-VALUE-GACHI/4_watery_front/pull/6) in [MAKE-VALUE-GACHI/4_watery_front](https://github.com/MAKE-VALUE-GACHI/4_watery_front)
+1. 💪 Opened PR [#10](https://github.com/MAKE-VALUE-GACHI/4_watery_front/pull/10) in [MAKE-VALUE-GACHI/4_watery_front](https://github.com/MAKE-VALUE-GACHI/4_watery_front)
+2. 🎉 Merged PR [#8](https://github.com/MAKE-VALUE-GACHI/4_watery_front/pull/8) in [MAKE-VALUE-GACHI/4_watery_front](https://github.com/MAKE-VALUE-GACHI/4_watery_front)
+3. 💪 Opened PR [#8](https://github.com/MAKE-VALUE-GACHI/4_watery_front/pull/8) in [MAKE-VALUE-GACHI/4_watery_front](https://github.com/MAKE-VALUE-GACHI/4_watery_front)
 <!--END_SECTION:activity-->
 
 <br>
