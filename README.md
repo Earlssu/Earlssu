@@ -168,7 +168,7 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [Earlssu/sms-portfolio-next](https://github.com/Earlssu/sms-portfolio-next)
+1. 💪 Opened PR [#19](https://github.com/MAKE-VALUE-GACHI/4_watery_front/pull/19) in [MAKE-VALUE-GACHI/4_watery_front](https://github.com/MAKE-VALUE-GACHI/4_watery_front)
 2. ❌ Assigned PR [#5](undefined) in [Earlssu/sms-portfolio-next](https://github.com/Earlssu/sms-portfolio-next)
 3. ❌ Assigned PR [#4](undefined) in [Earlssu/sms-portfolio-next](https://github.com/Earlssu/sms-portfolio-next)
 <!--END_SECTION:activity-->
