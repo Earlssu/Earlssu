@@ -7,10 +7,25 @@
 <!-- top -->
 ### 📌 Table of Contents
 
-- 🙋 **[About Me](#--about-me)**
-- 🛠️ **[Skills](#--skills-i-have-used-and-learned)**
-- 📊 **[GitHub Stats](#--my-github-stats)**
-- 👀 **[Recent Activity](#--recent-activity)**
+<div>
+  
+  🙋 **[About Me](#--about-me)**
+</div>
+
+<div>
+  
+  🛠️ **[Skills](#--skills-i-have-used-and-learned)**
+</div>
+
+<div>
+
+  📊 **[GitHub Stats](#--my-github-stats)**
+</div>
+
+<div>
+  
+  👀 **[Recent Activity](#--recent-activity)**
+</div>
 
 
 <p align="center">
