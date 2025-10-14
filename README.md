@@ -183,8 +183,8 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Earlssu/sms-portfolio-next/pull/10) in [Earlssu/sms-portfolio-next](https://github.com/Earlssu/sms-portfolio-next)
-2. 💪 Opened PR [#10](https://github.com/Earlssu/sms-portfolio-next/pull/10) in [Earlssu/sms-portfolio-next](https://github.com/Earlssu/sms-portfolio-next)
+1. 💪 Opened PR [#10](undefined) in [Earlssu/sms-portfolio-next](https://github.com/Earlssu/sms-portfolio-next)
+2. ❌ Assigned PR [#10](undefined) in [Earlssu/sms-portfolio-next](https://github.com/Earlssu/sms-portfolio-next)
 3. 🎉 Merged PR [#4](https://github.com/Earlssu/sms-portfolio-next/pull/4) in [Earlssu/sms-portfolio-next](https://github.com/Earlssu/sms-portfolio-next)
 <!--END_SECTION:activity-->
 
