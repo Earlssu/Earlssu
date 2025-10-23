@@ -30,13 +30,13 @@
 
 <p align="center">
   <a href="https://code-in-law.tistory.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/blogger/blogger-tile.svg" width="50" alt="Tistory"/>
+    <img src="https://www.vectorlogo.zone/logos/blogger/blogger-tile.svg" width="50" alt="blog link"/>
   </a>
   <a href="https://fire-warrior-ca2.notion.site/6004fbc72ef74bc994cea07bf1e11f7e?pvs=4" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Notion-512.png" width="50" alt="Notion"/>
+    <img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Notion-512.png" width="50" alt="resume link"/>
   </a>
   <a href="https://www.linkedin.com/in/minseob-%EC%8B%AC%EB%AF%BC%EC%84%AD-shim-b34691203/" target="_blank">
-    <img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png" width="50" alt="LinkedIn"/>
+    <img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png" width="50" alt="LinkedIn link"/>
   </a>
 </p>
 
@@ -110,7 +110,7 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
   <img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactNative" />
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" />
   <img width="45" height="45" src="https://gercocca.vercel.app/static/media/styledComponents-logo.3ccd25bd32274429992c.png" alt="styled-component" />
-  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" />
+  <img width="45" height="45" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindCSS" />
   <img width="45" height="45" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" />
   <img width="45" height="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" />
   <img width="45" height="45" src="https://mobx.js.org/assets/mobx.png" alt="mobx" />
