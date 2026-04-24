@@ -101,57 +101,57 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 <h4>Frontend Development</h4>
 <table>
   <tr>
-    <td align="center" width="60"><img width="45" height="45" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="html5" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="css3" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" alt="javascript" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextJs" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxjWNXf9mY-sHxQATgBDdlbHjQg8keLS8ziDh3ZEFmg&s" alt="threeJs" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactNative" /></td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="html5" /><br/>HTML5</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="css3" /><br/>CSS3</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" alt="javascript" /><br/>JavaScript</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" /><br/>React</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" /><br/>TypeScript</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextJs" /><br/>Next.js</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxjWNXf9mY-sHxQATgBDdlbHjQg8keLS8ziDh3ZEFmg&s" alt="threeJs" /><br/>Three.js</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactNative" /><br/>React Native</td>
   </tr>
   <tr>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://gercocca.vercel.app/static/media/styledComponents-logo.3ccd25bd32274429992c.png" alt="styled-component" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindCSS" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://mobx.js.org/assets/mobx.png" alt="mobx" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux" /></td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" /><br/>Expo</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://gercocca.vercel.app/static/media/styledComponents-logo.3ccd25bd32274429992c.png" alt="styled-component" /><br/>Styled Components</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindCSS" /><br/>Tailwind CSS</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" /><br/>Sass</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" /><br/>Bootstrap</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://mobx.js.org/assets/mobx.png" alt="mobx" /><br/>MobX</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" /><br/>Zustand</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux" /><br/>Redux</td>
   </tr>
 </table>
 
 <h4>Backend Development (Currently Learning)</h4>
 <table>
   <tr>
-    <td align="center" width="60"><img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" /></td>
-    <td align="center" width="60"><img width="110" height="45" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="nodeJS" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongoDB" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="expressJS" /></td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" /><br/>Python</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.simpleicons.org/nodedotjs/6DA55F" alt="nodeJS" /><br/>Node.js</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongoDB" /><br/>MongoDB</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.simpleicons.org/express/FFFFFF" alt="expressJS" /><br/>Express.js</td>
   </tr>
 </table>
 
 <h4>Version Control</h4>
 <table>
   <tr>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://git-fork.com/images/logo.png" alt="fork" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" alt="sourceTree" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://bun.sh/logo.svg" alt="bun" /></td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" /><br/>Git</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" /><br/>GitHub</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://git-fork.com/images/logo.png" alt="fork" /><br/>Fork</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" alt="sourceTree" /><br/>SourceTree</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" /><br/>npm</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" /><br/>Yarn</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://bun.sh/logo.svg" alt="bun" /><br/>Bun</td>
   </tr>
 </table>
 
 <h4>Communication</h4>
 <table>
   <tr>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/notion-icon.svg" alt="notion" /></td>
-    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" /></td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" /><br/>Slack</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" /><br/>Jira</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/notion-icon.svg" alt="notion" /><br/>Notion</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" /><br/>Figma</td>
   </tr>
 </table>
 
