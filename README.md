@@ -61,14 +61,15 @@
 ``` javascript
 name: MinSeob Shim (심민섭)
 located_in: Seoul, South Korea
-current_job: Frontend Developer
-company: Blast
+current_job: FullStack Developer
+company: Keyescape
 education:
   [
     "Bachelor's in Computer Science and Business Administration",
   ]
 career:
   [
+    "FullStack Developer - Keyescape Corp",
     "Frontend Developer - Blast Corp",
     "Journalist - Digital Daily Corp",
     "Intern - Austin College IT Department"
