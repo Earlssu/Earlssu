@@ -121,15 +121,38 @@ hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
     <td align="center" width="60"><img width="45" height="45" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" /><br/>Zustand</td>
     <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux" /><br/>Redux</td>
   </tr>
+  <tr>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electron" /><br/>Electron</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.simpleicons.org/vite/646CFF" alt="vite" /><br/>Vite</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.simpleicons.org/reactquery/FF4154" alt="reactQuery" /><br/>React Query</td>
+  </tr>
 </table>
 
-<h4>Backend Development (Currently Learning)</h4>
+<h4>Backend &amp; Database</h4>
 <table>
   <tr>
     <td align="center" width="60"><img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" /><br/>Python</td>
     <td align="center" width="60"><img width="45" height="45" src="https://cdn.simpleicons.org/nodedotjs/6DA55F" alt="nodeJS" /><br/>Node.js</td>
-    <td align="center" width="60"><img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongoDB" /><br/>MongoDB</td>
     <td align="center" width="60"><img width="45" height="45" src="https://cdn.simpleicons.org/express/FFFFFF" alt="expressJS" /><br/>Express.js</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.simpleicons.org/hono/E36002" alt="hono" /><br/>Hono</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.simpleicons.org/trpc/2596BE" alt="trpc" /><br/>tRPC</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongoDB" /><br/>MongoDB</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" /><br/>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.simpleicons.org/prisma/5A67D8" alt="prisma" /><br/>Prisma</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="drizzle" /><br/>Drizzle</td>
+  </tr>
+</table>
+
+<h4>DevOps &amp; Hardware</h4>
+<table>
+  <tr>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" /><br/>Docker</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="vercel" /><br/>Vercel</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" /><br/>AWS</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://cdn.simpleicons.org/turborepo/EF4444" alt="turborepo" /><br/>Turborepo</td>
+    <td align="center" width="60"><img width="45" height="45" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" /><br/>Arduino</td>
   </tr>
 </table>
 
