@@ -50,7 +50,7 @@
 
 ``` javascript
 name: MinSeob Shim (심민섭)
-located_in: Seoul, South Korea
+located_at: Seoul, South Korea
 current_job: FullStack Developer
 company: Keyescape
 education:
@@ -73,7 +73,7 @@ fields_of_interests:
     "Game Development",
   ]
   
-currently_learning: ["MERN Full-Stack Guide"]
+currently_learning: ["Python Algorithm"]
 hobbies: ["RoomEscape", "Gaming", "Bouldering", "Basketball", "Movie"]
 ```
 
