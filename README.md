@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F9F7F7,50:DBE2EF,100:3F72AF&height=225&section=header&text=MinSeob%20Shim&fontAlign=55&fontAlignY=30&fontSize=50&animation=fadeIn&fontColor=EEEEEE&desc=Frontend%20Developer%20of%20Team%20BLAST🚀&descAlign=59&descAlignY=50&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=MinSeob%20Shim&rotate=0&fontColor=F9F7F7&fontSize=50&fontAlignY=40&animation=twinkling&desc=FullStack%20Developer%20of%20KeyEscape%20Corp🗝️&descAlignY=60&descSize=25&textBg=false&reversal=false)
 
 ## Welcome to my GitHub Profile!
 
