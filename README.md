@@ -42,16 +42,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Earlssu/Earlssu/assets/61323917/7c8e473c-b1a5-4a74-bdaa-7b57936e542c" width="600" height="600"/>
-
-  <br>
-
-  <p align="center">
-    <a href="http://www.freepik.com" target="_blank">Designed by slidesgo / Freepik</a>
-  </p>
-</p>
-
 <h3 align="center">
   About Me
 </h3>
